@@ -1,5 +1,4 @@
 module.exports = {
-<<<<<<< HEAD
     printWidth: 80, //Specify the length of line that the printer will wrap on.
     tabWidth: 4, //Specify the number of spaces per indentation-level.
     /* Print semicolons at the ends of statements. 
@@ -21,11 +20,3 @@ module.exports = {
     arrowParens: 'always', //Example: `(x) => x`
     useTabs: false, //Indent lines with tabs instead of spaces
 }
-=======
-  arrowParens: 'avoid',
-  bracketSameLine: true,
-  bracketSpacing: false,
-  singleQuote: true,
-  trailingComma: 'all',
-};
->>>>>>> 92778b8153f10deb9e6bcfaa77df550bf8f97e5f
